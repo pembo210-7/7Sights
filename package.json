@@ -6,11 +6,11 @@
     "name": "number7",
     "email": "team@number7.co"
   },
-  "repository": "git://github.com/pembo210/7sights.git",
+  "repository": "git://github.com/pembo210-7/7Sights.git",
   "contributors": [
     {
-      "name": "SS",
-      "email": "flappy@flappycoin.io"
+    "name": "number7",
+    "email": "team@number7.co"
     },
    {
       "name": "pembo210",
@@ -18,9 +18,9 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/pembo210/7sights/issues"
+    "url": "https://github.com/pembo210-7/7Sights/issues"
   },
-  "homepage": "https://github.com/pembo210/7sights",
+  "homepage": "https://github.com/pembo210-7/7Sights",
   "license": "MIT",
   "keywords": [
     "insight",
@@ -34,7 +34,7 @@
     "start": "INSIGHT_PUBLIC_PATH=public node node_modules/.bin/7sights-bitcore-api"
   },
   "dependencies": {
-    "7sights-api": "git://github.com/number7team/7sightsAPI.git"
+    "7sights-api": "git://github.com/pembo210-7/7SightsAPI.git"
   },
   "devDependencies": {
     "bower": "~1.2.8",
