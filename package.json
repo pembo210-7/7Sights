@@ -34,7 +34,7 @@
     "start": "INSIGHT_PUBLIC_PATH=public node node_modules/.bin/7sights-bitcore-api"
   },
   "dependencies": {
-    "7sights-api": "git://github.com/pembo210/7sights-api.git"
+    "7sights-api": "git://github.com/number7team/7sightsAPI.git"
   },
   "devDependencies": {
     "bower": "~1.2.8",
