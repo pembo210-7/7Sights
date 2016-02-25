@@ -6,7 +6,7 @@
     "name": "number7",
     "email": "team@number7.co"
   },
-  "repository": "git://github.com/pembo210-7/7Sights.git",
+  "repository": "git://github.com/pembo210-7/SevenSights.git",
   "contributors": [
     {
     "name": "number7",
@@ -18,9 +18,9 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/pembo210-7/7Sights/issues"
+    "url": "https://github.com/pembo210-7/SevenSights/issues"
   },
-  "homepage": "https://github.com/pembo210-7/7Sights",
+  "homepage": "https://github.com/pembo210-7/SevenSights",
   "license": "MIT",
   "keywords": [
     "insight",
@@ -31,10 +31,10 @@
     "front-end"
   ],
   "scripts": {
-    "start": "INSIGHT_PUBLIC_PATH=public node node_modules/.bin/7sights-bitcore-api"
+    "start": "INSIGHT_PUBLIC_PATH=public node node_modules/.bin/SevenSights-bitcore-api"
   },
   "dependencies": {
-    "7sights-api": "git://github.com/pembo210-7/7SightsAPI.git"
+    "SevenSightsAPI": "git://github.com/pembo210-7/SevenSightsAPI.git"
   },
   "devDependencies": {
     "bower": "~1.2.8",
