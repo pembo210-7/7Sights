@@ -1,6 +1,6 @@
 {
-  "name": "7sights",
-  "description": "An open-source frontend for the 7sights API. The 7sights API provides you with a convenient, powerful and simple way to query and broadcast data on the Number7 network and build your own services with it.",
+  "name": "SevenSights",
+  "description": "An open-source frontend for the SevenSights API. The SevenSights API provides you with a convenient, powerful and simple way to query and broadcast data on the Number7 network and build your own services with it.",
   "version": "0.2.5",
   "author": {
     "name": "number7",
